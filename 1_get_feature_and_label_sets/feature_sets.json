@@ -1,0 +1,8 @@
+{
+    "0": ["rgb-mean"],
+    "1" : ["rgb-std"],
+    "2" : ["rgb-mean-std"],
+    "3" : ["rgb-mean-vis"],
+    "4" : ["rgb-std-vis"],
+    "5" : ["rgb-mean-std-vis"]
+}
